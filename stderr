@@ -50,4 +50,36 @@ TestsExamens(TestCase)>>debug
 TestsExamens class(TestCase class)>>debug:
 PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
 BlockClosure>>newProcess in Block: [ ...
+[0m[31mMessageNotUnderstood: Continuation class>>callcc:
+[0mContinuation class(Object)>>doesNotUnderstand: #callcc:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mTestFailure: Got [ 
+(1 to: 10)
+	collect: [ :i | 
+		b := B new.
+		b a: i.
+		b a ] ] instead of #(1 1 2 2 3 3 4 4 5 5).
+[0mTestsExamens(TestAsserter)>>assert:description:
+TestsExamens(TestAsserter)>>assert:equals:
+TestsExamens>>testAB
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
 [0m
