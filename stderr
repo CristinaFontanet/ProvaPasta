@@ -82,4 +82,423 @@ TestsExamens(TestCase)>>debug
 TestsExamens class(TestCase class)>>debug:
 PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
 BlockClosure>>newProcess in Block: [ ...
+[0m[31mMessageNotUnderstood: receiver of "adaptToNumber:andSend:" is nil
+[0mUndefinedObject(Object)>>doesNotUnderstand: #adaptToNumber:andSend:
+UndefinedObject(Object)>>adaptToInteger:andSend:
+SmallInteger(Integer)>>+
+SmallInteger>>+
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mMessageNotUnderstood: BlockClosure>>i
+[0mBlockClosure(Object)>>doesNotUnderstand: #i
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+HandMorph>>sendEvent:focus:clear:
+HandMorph>>sendMouseEvent:
+[0m[31mMessageNotUnderstood: BlockClosure>>i
+[0mBlockClosure(Object)>>doesNotUnderstand: #i
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+HandMorph>>sendEvent:focus:clear:
+HandMorph>>sendMouseEvent:
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mTestFailure: Assertion failed
+[0mTestsExamens(TestAsserter)>>assert:
+TestsExamens>>testContinuacions
+TestsExamens(TestCase)>>performTest
+TestsExamens(TestCase)>>runCase in Block: [ ...
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>runCase
+TestsExamens(TestCase)>>debug in Block: [ (self class selector: testSelector) runCase ]
+BlockClosure>>ensure:
+TestsExamens(TestCase)>>debug
+TestsExamens class(TestCase class)>>debug:
+PackageTreeNautilusUI(NautilusUI)>>runTestForAMethod:notifying:priority: in Block: [ ...
+BlockClosure>>newProcess in Block: [ ...
+[0m[31mMessageNotUnderstood: A class>>sourceCode
+[0mA class(Object)>>doesNotUnderstand: #sourceCode
+UndefinedObject>>DoIt in Block: [ :c | (c sourceCode findString: 'this') ~= 0 ]
+OrderedCollection>>select:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+[0m[31mMessageNotUnderstood: SmallInteger>>value:
+[0mSmallInteger(Object)>>doesNotUnderstand: #value:
+OrderedCollection>>select:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+HandMorph>>sendEvent:focus:clear:
+[0m[31mError: Instances of SmallInteger are not indexable
+[0mSmallInteger(Object)>>error:
+SmallInteger(Object)>>errorNotIndexable
+SmallInteger(Object)>>size
+UndefinedObject>>DoIt in Block: [ :each | (each sourceCode findString: 'this') siz...etc...
+Array(SequenceableCollection)>>collect:
+UndefinedObject>>DoIt in Block: [ :c | (c methods collect: [ :each | (each sourceC...etc...
+OrderedCollection>>select:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+[0m[31mError: Instances of SmallInteger are not indexable
+[0mSmallInteger(Object)>>error:
+SmallInteger(Object)>>errorNotIndexable
+SmallInteger(Object)>>size
+UndefinedObject>>DoIt in Block: [ :each | (each sourceCode findString: 'this') siz...etc...
+Array(SequenceableCollection)>>select: in Block: [ :stream | ...
+Array class(SequenceableCollection class)>>new:streamContents:
+Array(SequenceableCollection)>>select:
+UndefinedObject>>DoIt in Block: [ :c | (c methods select: [ :each | (each sourceCo...etc...
+OrderedCollection>>select:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+[0m[31mMessageNotUnderstood: A class>>method
+[0mA class(Object)>>doesNotUnderstand: #method
+UndefinedObject>>DoIt in Block: [ :c | (c method collect: [ :each | each sourceCod...etc...
+OrderedCollection>>collect:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+[0m[31mMessageNotUnderstood: Array>>findString:
+[0mArray(Object)>>doesNotUnderstand: #findString:
+UndefinedObject>>DoIt in Block: [ :c | (c methods collect: [ :each | each sourceCo...etc...
+OrderedCollection>>collect:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
+HandMorph>>sendFocusEvent:to:clear:
+[0m[31mMessageNotUnderstood: True>>value:
+[0mTrue(Object)>>doesNotUnderstand: #value:
+Array(Collection)>>anySatisfy: in Block: [ :each | ...
+Array(SequenceableCollection)>>do:
+Array(Collection)>>anySatisfy:
+Array(Collection)>>contains:
+UndefinedObject>>DoIt in Block: [ :c | (c methods collect: [ :each | each sourceCo...etc...
+OrderedCollection>>collect:
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+PluggableTextMorph>>printIt in Block: [ ...
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>printIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+[0m[31mMessageNotUnderstood: RBSelectorEnvironment>>open
+[0mRBSelectorEnvironment(Object)>>doesNotUnderstand: #open
+UndefinedObject>>DoIt
+OpalCompiler>>evaluate
+SmalltalkEditor>>evaluateSelectionAndDo:
+SmalltalkEditor>>evaluateSelection
+PluggableTextMorph>>doIt in Block: [ textMorph editor evaluateSelection ]
+PluggableTextMorph>>handleEdit: in Block: [ result := editBlock value ]
+TextMorphForEditView(TextMorph)>>handleEdit:
+PluggableTextMorph>>handleEdit:
+PluggableTextMorph>>doIt
+Workspace(Object)>>perform:orSendTo:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent: in Block: [ ...
+BlockClosure>>ensure:
+CursorWithMask(Cursor)>>showWhile:
+ToggleMenuItemMorph(MenuItemMorph)>>invokeWithEvent:
+ToggleMenuItemMorph(MenuItemMorph)>>mouseUp:
+ToggleMenuItemMorph(MenuItemMorph)>>handleMouseUp:
+MouseButtonEvent>>sentTo:
+ToggleMenuItemMorph(Morph)>>handleEvent:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+ToggleMenuItemMorph(Morph)>>processEvent:using:
+MorphicEventDispatcher>>dispatchDefault:with:
+MorphicEventDispatcher>>dispatchEvent:with:
+MenuMorph(Morph)>>processEvent:using:
+MenuMorph(Morph)>>processEvent:
+MenuMorph>>handleFocusEvent:
+HandMorph>>sendFocusEvent:to:clear: in Block: [ ...
+BlockClosure>>on:do:
+WorldMorph(PasteUpMorph)>>becomeActiveDuring:
 [0m
